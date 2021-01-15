@@ -33,7 +33,7 @@ header .logo {
   justify-content: space-between;
   align-items: center;
   /* background: #111; */
-  background: url('/images/bg.jpg.png');
+  background: url('../images/bg.jpg.png');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   transition: 0.5s;
